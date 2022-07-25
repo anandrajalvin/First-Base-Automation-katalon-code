@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SIGNUP_Btn</name>
+   <tag></tag>
+   <elementGuidId>fcca6b4a-e7e8-4e6b-b094-c6bbcdf4f4b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/div/div/div[2]/div[2]/div/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained > span.MuiButton-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e992d0ac-fe19-447b-a70b-036515802948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>f8919a69-8fc0-4f27-8ecd-41ab91d20d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SIGNUP</value>
+      <webElementGuid>28ea93a0-0467-4a9f-b273-663d17702df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/section[@class=&quot;container-lg&quot;]/div[@class=&quot;registration&quot;]/div[@class=&quot;plBox&quot;]/div[@class=&quot;login regContainer&quot;]/div[@class=&quot;addUserModal&quot;]/div[@class=&quot;fspBody&quot;]/div[@class=&quot;actionButton d-flex justify-content-center align-items-center flex-wrap&quot;]/div[@class=&quot;jss10 undefined primButton&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>74c1c6aa-e4f7-4098-a7a7-0d28545b5857</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/div/div/div[2]/div[2]/div/div[2]/div/button/span</value>
+      <webElementGuid>94511785-df22-413f-bab0-89d07a2b4a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip code'])[2]/following::span[1]</value>
+      <webElementGuid>3afd69d2-5d76-4190-85f9-2fefb81a39b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip code'])[1]/following::span[2]</value>
+      <webElementGuid>4c878216-33b7-45ff-bc90-226436ed9bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::span[2]</value>
+      <webElementGuid>ea71c246-16e1-4be1-a167-d8ff744133b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[2]/preceding::span[2]</value>
+      <webElementGuid>c23bc8b5-9869-47f1-bd80-011ae9bb4752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SIGNUP']/parent::*</value>
+      <webElementGuid>fdeb69df-08f3-498b-9602-a013e5639903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/button/span</value>
+      <webElementGuid>5e62980e-54f8-4e6c-96dc-80a72cac5fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SIGNUP' or . = 'SIGNUP')]</value>
+      <webElementGuid>7ed817ce-325a-4d9f-8ccf-fa12a292295a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

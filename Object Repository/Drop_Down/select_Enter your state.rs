@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Enter your state</name>
+   <tag></tag>
+   <elementGuidId>f704e13a-ba97-4fd5-bfa6-429dea967ac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='state']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;state&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>373d33e0-1422-4b14-8780-557095059d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSelect-root MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input</value>
+      <webElementGuid>e0e55bba-814e-47aa-a063-c061b67e9385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7b309a40-a403-4c88-9f59-3c391ed70ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>state</value>
+      <webElementGuid>9a5e4674-e428-4511-ba4d-c20495726bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter your stateAlabamaAlaskaAmerican SamoaArizonaArkansasBaker IslandCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaGuamHawaiiHowland IslandIdahoIllinoisIndianaIowaJarvis IslandJohnston AtollKansasKentuckyKingman ReefLouisianaMaineMarylandMassachusettsMichiganMidway AtollMinnesotaMississippiMissouriMontanaNavassa IslandNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalmyra AtollPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUnited States Minor Outlying IslandsUnited States Virgin IslandsUtahVermontVirginiaWake IslandWashingtonWest VirginiaWisconsinWyoming</value>
+      <webElementGuid>5341b2ec-1b74-41d9-9fa0-7c55721decd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/section[@class=&quot;container-lg&quot;]/div[@class=&quot;registration&quot;]/div[@class=&quot;plBox&quot;]/div[@class=&quot;login regContainer&quot;]/div[@class=&quot;addUserModal&quot;]/div[@class=&quot;fspBody&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-12&quot;]/div[@class=&quot;customSelect&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root MuiFormControl-marginNormal MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl&quot;]/select[@class=&quot;MuiSelect-root MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input&quot;]</value>
+      <webElementGuid>5c6e261a-a5f9-43cf-baf6-88a3d54e0fe7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='state']</value>
+      <webElementGuid>8fe18fd8-1b6f-4305-83cc-61aa053c7cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/div/div/div[2]/div[2]/div/div/div[8]/div/div/div/select</value>
+      <webElementGuid>a5ff31a2-fa57-4d8c-b044-44aa8ed67338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State *'])[1]/following::select[1]</value>
+      <webElementGuid>2e45b8d9-7f60-4956-8203-aa5c7c94558b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re enter your password *'])[2]/following::select[1]</value>
+      <webElementGuid>06e41c46-93a1-45d5-8766-e95c4209a667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State *'])[2]/preceding::select[1]</value>
+      <webElementGuid>2074f1f4-a015-4c78-adcf-2917fcfc8cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='city *'])[1]/preceding::select[1]</value>
+      <webElementGuid>65c562bf-22c5-434f-8d06-ed76bfbd500d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/select</value>
+      <webElementGuid>c75e4dab-2979-482e-810e-e03b53b9d3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'state' and (text() = 'Enter your stateAlabamaAlaskaAmerican SamoaArizonaArkansasBaker IslandCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaGuamHawaiiHowland IslandIdahoIllinoisIndianaIowaJarvis IslandJohnston AtollKansasKentuckyKingman ReefLouisianaMaineMarylandMassachusettsMichiganMidway AtollMinnesotaMississippiMissouriMontanaNavassa IslandNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalmyra AtollPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUnited States Minor Outlying IslandsUnited States Virgin IslandsUtahVermontVirginiaWake IslandWashingtonWest VirginiaWisconsinWyoming' or . = 'Enter your stateAlabamaAlaskaAmerican SamoaArizonaArkansasBaker IslandCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaGuamHawaiiHowland IslandIdahoIllinoisIndianaIowaJarvis IslandJohnston AtollKansasKentuckyKingman ReefLouisianaMaineMarylandMassachusettsMichiganMidway AtollMinnesotaMississippiMissouriMontanaNavassa IslandNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalmyra AtollPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUnited States Minor Outlying IslandsUnited States Virgin IslandsUtahVermontVirginiaWake IslandWashingtonWest VirginiaWisconsinWyoming')]</value>
+      <webElementGuid>5e440590-c053-42e8-b589-5623095b02d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

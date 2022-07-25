@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Fornt end URL</description>
+      <initValue>'https://large-dev.ecommerce.auction/'</initValue>
+      <name>Front_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User able to enter the First name</description>
+      <initValue>'Anand'</initValue>
+      <name>First_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User able to enter the Last Name</description>
+      <initValue>'Raj'</initValue>
+      <name>Last_Name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User able to enter the Email address</description>
+      <initValue>'anandraj.auctionsoftware+ts1@gmail.com'</initValue>
+      <name>Email_Address</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Auctionsoftware_logo</name>
+   <tag></tag>
+   <elementGuidId>0f96fd88-1d33-4b60-b4b3-9b7c07faad55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/header/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;AuctionSoftware- Large&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7daa2d37-bedc-4fdf-9b86-36f958a9fea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/images/logo.png</value>
+      <webElementGuid>0cedc278-b1c0-48f4-981d-1d3cab87acd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>AuctionSoftware- Large</value>
+      <webElementGuid>017a67c1-cce1-4e7e-9ec4-0f12e8fa9d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/header[@class=&quot;mainHeader noPrint&quot;]/div[@class=&quot;customContainer d-flex justify-content-between align-items-center h-100&quot;]/div[@class=&quot;headLt d-flex justify-content-start align-items-center&quot;]/a[@class=&quot;ASlogo&quot;]/img[1]</value>
+      <webElementGuid>e8c10245-748d-4914-8e50-0230dec3497f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/header/div/div/a/img</value>
+      <webElementGuid>ff4155b6-b68c-454a-bd91-e346d33ef7b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='AuctionSoftware- Large']</value>
+      <webElementGuid>0c010ca6-0a97-4fee-b08a-6d927bf3dc92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>20b1224b-00a9-45eb-b011-b27bc8c1118d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/images/logo.png' and @alt = 'AuctionSoftware- Large']</value>
+      <webElementGuid>1ffff373-f07c-42b7-bb42-c7c890d1b820</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

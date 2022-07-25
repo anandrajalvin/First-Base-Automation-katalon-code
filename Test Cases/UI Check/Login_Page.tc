@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Check whether the user able to login into the site</description>
+   <name>Login_Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8691891-96e7-47f7-8bcf-a9ce6e0bf56c</testCaseGuid>
+</TestCaseEntity>
