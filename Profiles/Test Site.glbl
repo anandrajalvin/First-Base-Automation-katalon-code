@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description>Fornt end URL</description>
-      <initValue>'https://large-dev.ecommerce.auction/'</initValue>
+      <initValue>'large-dev.ecommerce.auction'</initValue>
       <name>Front_URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -36,7 +36,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>User able to enter the Confirm Password</description>
-      <initValue>'12345678'</initValue>
+      <initValue>'1234567'</initValue>
       <name>Confrim_Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

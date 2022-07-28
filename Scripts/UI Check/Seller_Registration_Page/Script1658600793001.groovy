@@ -17,8 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//WebUI.openBrowser(GlobalVariable.Front_URL)
-//WebUI.maximizeWindow()
+WebUI.openBrowser(GlobalVariable.Front_URL)
+
+WebUI.maximizeWindow()
+
 WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Button/Page_AuctionSoftware- Large/Register_Btn'))
