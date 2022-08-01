@@ -33,5 +33,3 @@ WebUI.getText(findTestObject('Toast Messgae/Toast_Message'))
 
 WebUI.closeBrowser()
 
-WebUI.closeBrowser()
-
