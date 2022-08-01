@@ -31,3 +31,7 @@ WebUI.check(findTestObject('Toast Messgae/Toast_Message'), FailureHandling.STOP_
 
 WebUI.getText(findTestObject('Toast Messgae/Toast_Message'))
 
+WebUI.closeBrowser()
+
+WebUI.closeBrowser()
+
