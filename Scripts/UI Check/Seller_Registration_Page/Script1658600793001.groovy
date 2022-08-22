@@ -17,17 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser(GlobalVariable.Front_URL)
+//WebUI.openBrowser(GlobalVariable.Front_URL)
+//WebUI.maximizeWindow()
+//WebUI.navigateToUrl('https://large-dev.ecommerce.auction/registration')
+WebUI.delay(8, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.maximizeWindow()
+//WebUI.click(findTestObject('Button/Page_AuctionSoftware- Large/Register_Btn'))
 
-WebUI.delay(3, FailureHandling.STOP_ON_FAILURE)
+//WebUI.delay(5)
 
-WebUI.click(findTestObject('Button/Page_AuctionSoftware- Large/Register_Btn'))
-
-WebUI.delay(5)
-
-WebUI.scrollToPosition(0, 200)
+//WebUI.scrollToPosition(0, 200)
 
 WebUI.click(findTestObject('Button/Page_AuctionSoftware- Large/Organization_Btn'))
 
@@ -54,6 +53,12 @@ WebUI.verifyMatch(GlobalVariable.Password, GlobalVariable.Confrim_Password, fals
 WebUI.clearText(findTestObject('Input_fields/input_Mobile Number_phone'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.sendKeys(findTestObject('Input_fields/input_Mobile Number_phone'), GlobalVariable.Mobile_Number)
+
+WebUI.sendKeys(findTestObject('Input_fields/Page_AuctionSoftware- Large/input_Enter your organization name_companyname'), 
+    GlobalVariable.Oranization_Name)
+
+WebUI.selectOptionByLabel(findTestObject('Drop_Down/Page_AuctionSoftware- Large/Page_AuctionSoftware- Large/country'), 'United States', 
+    false)
 
 WebUI.selectOptionByIndex(findTestObject('Drop_Down/select_Enter your state'), '2', FailureHandling.STOP_ON_FAILURE)
 
