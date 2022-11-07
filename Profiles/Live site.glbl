@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description>Fornt end URL</description>
-      <initValue>'large-dev.ecommerce.auction'</initValue>
+      <initValue>'https://largeproduct-test.ecommerce.auction/'</initValue>
       <name>Front_URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -36,7 +36,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>User able to enter the Confirm Password</description>
-      <initValue>'1234567'</initValue>
+      <initValue>'12345678'</initValue>
       <name>Confrim_Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -63,5 +63,10 @@
       <description></description>
       <initValue>'12345'</initValue>
       <name>Zip_Code</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Enter the Organization Name</description>
+      <initValue>'Test Company value'</initValue>
+      <name>Organization</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

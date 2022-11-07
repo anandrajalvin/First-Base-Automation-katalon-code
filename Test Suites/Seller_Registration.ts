@@ -21,7 +21,7 @@
    <testCaseLink>
       <guid>74b75a6e-d466-487c-a066-49929586c6a7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/UI Check/Seller_Registration_Page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

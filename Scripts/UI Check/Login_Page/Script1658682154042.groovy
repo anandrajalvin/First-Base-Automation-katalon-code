@@ -25,7 +25,7 @@ WebUI.sendKeys(findTestObject('Input_fields/input_Email address_email'), GlobalV
 
 WebUI.sendKeys(findTestObject('Input_fields/input_Enter your password_password'), GlobalVariable.Password)
 
-WebUI.click(findTestObject('Button/Page_AuctionSoftware- Large/span_login'))
+WebUI.click(findTestObject('Page_Login  Auction Software_btn/span_Login'))
 
 WebUI.check(findTestObject('Toast Messgae/Toast_Message'), FailureHandling.STOP_ON_FAILURE)
 

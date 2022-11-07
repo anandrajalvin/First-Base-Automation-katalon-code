@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description>Fornt end URL</description>
-      <initValue>'https://large-dev.ecommerce.auction/registration'</initValue>
+      <initValue>'https://large-dev.ecommerce.auction/'</initValue>
       <name>Front_URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

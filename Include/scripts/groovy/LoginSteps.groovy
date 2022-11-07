@@ -46,38 +46,33 @@ class LoginSteps {
 	/**
 	 * The step definitions below match with Katalon sample Gherkin steps
 	 */
-	
-	
+
+
 	@Given("the user is on the Login Page")
-	def userinLoginPage() 
-	{
+	def userinLoginPage() {
 		WebUI.callTestCase(findTestCase('UI Check/Open Broswer'), [:], FailureHandling.STOP_ON_FAILURE)
 
 		WebUI.click(findTestObject('Button/Page_AuctionSoftware- Large/Login_btn'))
 	}
 
 	@When("the user enters the username")
-	def Enterusername() 
-	{
+	def Enterusername() {
 		WebUI.sendKeys(findTestObject('Input_fields/input_Email address_email'), GlobalVariable.Email_Address)
 	}
 
 	@And("the user enters the password")
-	def Enterpassword() 
-	{
+	def Enterpassword() {
 		WebUI.sendKeys(findTestObject('Input_fields/input_Enter your password_password'), GlobalVariable.Password)
 	}
 
 	@And("click the Login button")
-	def Loginbtn() 
-	{
-		WebUI.click(findTestObject('Button/Page_AuctionSoftware- Large/span_login'))
+	def Loginbtn() {
+		WebUI.click(findTestObject('Page_Login  Auction Software_btn/span_Login'))
 	}
 
 
 	@Then("the user should be logged in")
-	def VerifyLogin() 
-	{
+	def VerifyLogin() {
 		WebUI.check(findTestObject('Toast Messgae/Toast_Message'), FailureHandling.STOP_ON_FAILURE)
 		WebUI.getText(findTestObject('Toast Messgae/Toast_Message'))
 		WebUI.closeBrowser()
